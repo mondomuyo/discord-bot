@@ -1,0 +1,23 @@
+{
+  "name": "cbot",
+  "version": "0.0.1",
+  "description": "Plays bilibili music!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mondomuyo",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.9.0",
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.10",
+    "winston": "^3.7.2"
+  }
+}
