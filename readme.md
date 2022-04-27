@@ -1,0 +1,1 @@
+A discord music bot. Use discord.js: https://discord.js.org/#/.
